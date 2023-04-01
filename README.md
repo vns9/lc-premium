@@ -1,3 +1,3 @@
-# Leetcode-Premium
+# lc-premium
 
-Solving Leetcode premium questions.
+Solving LC "premium" questions.
